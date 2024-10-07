@@ -25,10 +25,10 @@
     "frequency_affiliate": "0"
   },
   "extra": {
-    "privacyPolicy": "https://sites.google.com/view/dhaniloanguide/home",
-    "contactUS": "https://forms.gle/xYmqxgq9CjuV8xuM9",
+    "privacyPolicy": "https://swetdankhara.github.io/cashbookpro/privacypolicy.txt",
+    "contactUS": "https://swetdankhara.github.io/cashbookpro/contact.html",
     "extrascreen": "1",
-    "interAdDialog": 1,
+    "interAdDialog": 0,
     "nativebtn_up": 0,
     "bannerTimer": 1000000,
     "nativeclickupgrade": 1,
@@ -40,7 +40,7 @@
     "fbAppID": "1470962580275628",
     "fbClientID": "d6118464cccf48b190e2b97705e5d47f",
     "collapsizeBanner": 0,
-    "someTimeAgain": 1,
+    "someTimeAgain": 0,
     "bannerAltnativeShow": false,
     "enableNotify": ""
   },
