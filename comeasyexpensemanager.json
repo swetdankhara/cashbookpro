@@ -5,19 +5,17 @@
     "admob_adstatus": 1,
     "facebook_adstatus": 0
   },
-  "ads": {
-    "admob": {
+  "admob": {
       "appopen_id": "ca-app-pub-3940256099942544/9257395921",
       "banner_id": "ca-app-pub-3940256099942544/2014213617",
       "native_id": "/21775744923/example/native",
       "interstitial_id": "/21775744923/example/interstitial"
-    },
-    "facebook": {
+  },
+  "facebook": {
       "appopen_id": "ca-app-pub-3940256099942544/9257395921",
       "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-    }
   },
   "frequency_capping": {
     "frequency_banner": "0",
